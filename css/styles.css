@@ -1,0 +1,18 @@
+.column {
+  float: left;
+  margin: 8px;
+  border: 5px solid green;
+  padding: 4px;
+  width: 600px;
+  background-color: burlywood;
+}
+
+.aboutme {
+  border: 10px solid pink;
+  background-color: yellow;
+  font-family: fantasy;
+  color: black;
+  margin: 12px;
+  padding: 200px;
+  text-align: center;
+}
